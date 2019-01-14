@@ -1,0 +1,16 @@
+{
+  "name": "DAPP3",
+  "version": "1.0.0",
+  "dependencies": {
+    "truffle": "^4.1.14"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
